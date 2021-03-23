@@ -52,7 +52,7 @@ namespace Vjezbe4
 
         static void Main(string[] args)
         {
-            Zadatak1();
+            Zadatak1(); // Laura se treba smiriti i ne napastovati Josipa(seksualno ili neseksualno)
         }
     }
 }
